@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Utkarsh Mishra
+"Dedicated DevOps enthusiast eager to automate and streamline software delivery processes. Passionate about learning and applying the latest tools and technologies in the DevOps landscape. Currently focused on mastering DevOps tools and methodologies. Looking to contribute to collaborative projects and gain hands-on experience in a fast-paced DevOps environment."
+- 👀 I’m interested in DevOps learning, Python, Data Science methodoloies. 
+- 🌱 I’m currently learning DevOps Learning
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+utkarshmishra7905/utkarshmishra7905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
